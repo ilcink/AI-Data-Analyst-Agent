@@ -2,3 +2,6 @@ groq
 pandas
 numpy
 matplotlib
+python-dotenv
+ipywidgets
+ipykernel

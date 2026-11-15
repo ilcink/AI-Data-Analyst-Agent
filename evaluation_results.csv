@@ -1,0 +1,9 @@
+dataset,test,tool_selection,numerical_correctness,tool_errors,completed,selected_tools
+sales,Sales distribution,True,True,0,True,"analyze_distribution, create_histogram, inspect_data"
+sales,Sales correlation,True,True,0,True,"calculate_correlation, create_scatter_plot"
+sales,Revenue chart,True,True,0,True,"create_bar_chart, inspect_data"
+sales,Invalid column,True,,0,True,inspect_data
+support,Support distribution,True,True,0,True,"analyze_distribution, create_histogram, inspect_data"
+support,Support correlation,True,True,0,True,"calculate_correlation, create_scatter_plot"
+support,Support time series,True,True,0,True,"create_line_chart, inspect_data"
+support,Invalid column,True,,0,True,inspect_data
